@@ -1,0 +1,5 @@
+Add Git to Project
+1. Go to the project root directory
+   git init
+   git status
+2.
